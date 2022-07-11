@@ -6,8 +6,8 @@ setup(
     url = 'https://github.com/eveschoen/MyNameIs.git',
     author = 'Eve Schoenrock and Rachel Grace',
     author_email = 'rg5xm@virginia.edu',
-    license = 'MIT'
-    description = 'This package takes a name as a string and returns it in an introductory statement.'
+    license = 'MIT',
+    description = 'This package takes a name as a string and returns it in an introductory statement.',
     packages = ['mynameis']
 )
     
